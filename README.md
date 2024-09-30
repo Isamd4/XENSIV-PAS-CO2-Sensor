@@ -8,6 +8,7 @@ This repository contains firmware and drivers for interfacing with the XENSIV PA
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [References](#references)
 
 ## Features
 - Initialize the XENSIV PAS CO2 sensor
@@ -47,4 +48,9 @@ To use the library:
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions.
+
+## References
+1. [Programming guide for XENSIVTM PAS CO2](https://www.infineon.com/dgdl/Infineon-programming_guide_PAS_CO2_evaluationkit-ApplicationNotes-v02_00-EN.pdf?fileId=5546d4627600a6bc0176041139e77780)
+2. [Register Map Description of the XENSIV PAS CO2](https://www.infineon.com/dgdl/Infineon-Registermap_description_PASCO2_MA2-ApplicationNotes-v02_00-EN.pdf?fileId=5546d4627600a6bc017604238d967785)
+3. [Quick-start guide for XENSIVTM PAS CO2 Shield2Go](https://docs.rs-online.com/128c/A700000009317321.pdf)
 
